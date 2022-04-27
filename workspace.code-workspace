@@ -1,0 +1,11 @@
+{
+    "folders": [
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Side-hustle-Group30-Capstone",
+        "liveServer.settings.port": 5501
+    }
+}

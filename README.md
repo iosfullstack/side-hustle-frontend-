@@ -1,2 +1,0 @@
-# side-hustle-frontend-
-project
